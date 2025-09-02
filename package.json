@@ -1,6 +1,6 @@
 {
-  "name": "astro-linkedin-insight",
-  "version": "1.0.0",
+  "name": "astro-linkedin-insight-tag",
+  "version": "1.0.1",
   "description": "Componente y función de Astro para integrar la etiqueta de LinkedIn Insight y registrar conversiones.",
   "main": "src/index.ts",
   "type": "module",
@@ -30,6 +30,6 @@
     "url": "https://github.com/icruzdevelopment/astro-linkedin-insight/issues"
   },
   "peerDependencies": {
-    "astro": "^3.0.0 || ^4.0.0"
+    "astro": "^3.0.0 || ^4.0.0 || ^5.0.0"
   }
 }
