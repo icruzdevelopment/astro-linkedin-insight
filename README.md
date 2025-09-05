@@ -20,13 +20,13 @@ Instala el paquete usando tu gestor de paquetes preferido:
 
 ```bash
 # Usando npm
-npm install astro-linkedin-insight
+npm install astro-linkedin-insight-tag
 
 # Usando yarn
-yarn add astro-linkedin-insight
+yarn add astro-linkedin-insight-tag
 
 # Usando pnpm
-pnpm add astro-linkedin-insight
+pnpm add astro-linkedin-insight-tag
 ```
 
 ## 🛠️ Guía de Uso
