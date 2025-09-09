@@ -1,8 +1,8 @@
 # 🚀 Astro LinkedIn Insight
 
-[![NPM Version](https://img.shields.io/npm/v/astro-linkedin-insight.svg)](https://www.npmjs.com/package/astro-linkedin-insight)
+[![NPM Version](https://img.shields.io/npm/v/astro-linkedin-insight.svg)](https://www.npmjs.com/package/astro-linkedin-insight-tag)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/npm/dt/astro-linkedin-insight.svg)](https://www.npmjs.com/package/astro-linkedin-insight)
+[![Downloads](https://img.shields.io/npm/dt/astro-linkedin-insight.svg)](https://www.npmjs.com/package/astro-linkedin-insight-tag)
 
 Un componente de Astro y una función de ayuda para integrar la **etiqueta de LinkedIn Insight** en tu sitio web. Registra visitas a páginas y eventos de conversión específicos con facilidad.
 
